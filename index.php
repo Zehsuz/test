@@ -8,16 +8,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <?php
-    if(mt_rand(0,1)){
-    ?>
-    <div style="color: blue">хуй</div>
-    <?php
-    } else{
-    ?>
-        <div style="color: red">хуй</div>
-        <?php
-}
-    ?>
+<a> sdfasfs</a>
 </body>
 </html>
